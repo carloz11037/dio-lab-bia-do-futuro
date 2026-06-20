@@ -38,5 +38,46 @@
     "rentabilidade": "Variável",
     "aporte_minimo": 100.00,
     "indicado_para": "Perfil arrojado com foco no longo prazo"
+  },
+
+  {
+    "nome": "ETF Ibovespa (BOVA11)",
+    "categoria": "renda_variavel",
+    "risco": "medio",
+    "rentabilidade": "Segue o desempenho do Ibovespa",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Diversificação no mercado brasileiro com baixo custo"
+  },
+  {
+    "nome": "ETF S&P 500",
+    "categoria": "renda_variavel",
+    "risco": "medio_alto",
+    "rentabilidade": "Segue o índice S&P 500",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Exposição ao mercado internacional (EUA)"
+  },
+  {
+    "nome": "Bitcoin",
+    "categoria": "cripto",
+    "risco": "alto",
+    "rentabilidade": "Altamente variável",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Investidores tolerantes a volatilidade e longo prazo"
+  },
+  {
+    "nome": "Ethereum",
+    "categoria": "cripto",
+    "risco": "alto",
+    "rentabilidade": "Altamente variável",
+    "aporte_minimo": 50.00,
+    "indicado_para": "Exposição a tecnologia blockchain e contratos inteligentes"
+  },
+  {
+    "nome": "Poupança",
+    "categoria": "renda_fixa",
+    "risco": "muito_baixo",
+    "rentabilidade": "Regra da poupança (variável conforme Selic)",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Iniciantes absolutos e reserva extremamente conservadora"
   }
 ]
