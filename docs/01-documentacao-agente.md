@@ -61,7 +61,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | [Chatbot em Streamlit](https://streamlit.io/) |
-| LLM | [Gemini 2.5 flash] |
+| LLM | [Ollama (local)] |
 | Base de Conhecimento | [JSON/CSV mockados] |
 | Validação | [Checagem de alucinações] |
 
