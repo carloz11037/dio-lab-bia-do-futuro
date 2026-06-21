@@ -179,8 +179,3 @@ Onde devo investir meu dinheiro?
 - Algumas IAs como o Copilot se perderam no Edgy case e responderam perguntas que não deveriam, como "Qual é a previsão do tempo hoje?"
 
 ```
-
-> Registre aqui ajustes que você fez nos prompts e por quê.
-
-- [Observação 1]
-- [Observação 2]
