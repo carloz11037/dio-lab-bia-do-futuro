@@ -23,7 +23,7 @@ Democratiza o conhecimento de investimento e finanças para pessoas leigas no as
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
 
--Enquanto muitos chatbots apenas recuperam informações, o Flobot foi desenvolvido para funcionar como um agente inteligente, interpretando a intenção do usuário e fornecendo respostas contextualizadas e educativas. Sua estrutura permite expansão para integração com dados financeiros em tempo real, tornando-o uma ferramenta com potencial para auxiliar pessoas na organização das finanças, no planejamento de investimentos e na tomada de decisões. Dessa forma, o projeto contribui para ampliar o acesso à educação financeira e promover maior autonomia financeira na sociedade
+- Enquanto muitos chatbots apenas recuperam informações, o Flobot foi desenvolvido para funcionar como um agente inteligente, interpretando a intenção do usuário e fornecendo respostas contextualizadas e educativas. Sua estrutura permite expansão para integração com dados financeiros em tempo real, tornando-o uma ferramenta com potencial para auxiliar pessoas na organização das finanças, no planejamento de investimentos e na tomada de decisões. Dessa forma, o projeto contribui para ampliar o acesso à educação financeira e promover maior autonomia financeira na sociedade
 
 ---
 
