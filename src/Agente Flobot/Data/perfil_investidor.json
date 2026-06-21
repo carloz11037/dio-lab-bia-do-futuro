@@ -1,0 +1,24 @@
+{
+  "nome": "Carlos Daniel",
+  "idade": 26,
+  "profissao": "Designer Gráfica",
+  "renda_mensal": 3800.00,
+  "perfil_investidor": "iniciante",
+  "nivel_conhecimento": "básico",
+  "objetivo_principal": "Aprender sobre investimentos e organizar a vida financeira",
+  "patrimonio_total": 8000.00,
+  "reserva_emergencia_atual": 3000.00,
+  "aceita_risco": false,
+  "metas": [
+    {
+      "meta": "Construir uma reserva de emergência",
+      "valor_necessario": 12000.00,
+      "prazo": "2027-06"
+    },
+    {
+      "meta": "Aprender os principais conceitos de investimentos",
+      "valor_necessario": 0.00,
+      "prazo": "2026-12"
+    }
+  ]
+}
